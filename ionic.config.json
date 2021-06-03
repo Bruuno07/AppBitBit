@@ -1,0 +1,7 @@
+{
+  "name": "AppBitBit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
